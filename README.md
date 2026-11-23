@@ -1,9 +1,12 @@
 # news-image-20261122-v4-argon
 
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
+[![rank](https://make.fun/badge/news-image-20261122/Misaka450/news-image-20261122-v4-argon/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261122/Misaka450/news-image-20261122-v4-argon/reward.svg)](https://make.fun/bounty/news-image-20261122)
+
 One image summing up the world news of **Sunday 22 November 2026**.
 
-![rank](https://make.fun/badge/news-image-20261122/Misaka450/news-image-20261122-v4-argon/rank.svg)
-![reward](https://make.fun/badge/news-image-20261122/Misaka450/news-image-20261122-v4-argon/reward.svg)
 
 [Competition](https://make.fun/bounty/news-image-20261122) · [Leaderboard](https://make.fun/bounty/news-image-20261122/leaderboard)
 
